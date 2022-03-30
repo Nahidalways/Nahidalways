@@ -19,7 +19,7 @@ Skills:  HTML / CSS / Bootstrap / JS / PHP
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nahidalways)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidalways)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahidalways&show_icons=true&count_private=true)  
 
